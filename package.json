@@ -1,0 +1,14 @@
+{
+  "name": "techlif",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch sass/ -o css/  --output-style compressed"
+  },
+  "author": "Samet Candan",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
